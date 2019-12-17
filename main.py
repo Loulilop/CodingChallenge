@@ -1,3 +1,3 @@
-from send_mail import *
+from send_mail import send_mail
 
-send_mail("Thibault", "tb@wemanity.com")
+send_mail("Thibault", "tab@wemanity.com")
