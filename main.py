@@ -1,3 +1,4 @@
-from send_mail import send_mail
+from send_mail import *
 
-send_mail("Thibault", "tab@wemanity.com")
+# get_account()
+send_mail("Thibault", "tab@wemanity.com", "whatever")
